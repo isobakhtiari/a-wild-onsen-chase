@@ -3,7 +3,7 @@ import MediaCard from './MediaCard.jsx'
 import { renderTextWithMarkup } from '../lib/textMarkup.jsx'
 
 const StepText = forwardRef(function StepText(
-  { steps, activeStepId, children, registerMediaRef },
+  { steps, activeStepId, children, footer, registerMediaRef },
   ref
 ) {
   return (
@@ -37,6 +37,7 @@ const StepText = forwardRef(function StepText(
             ))}
         </div>
       ))}
+      {footer}
     </div>
   )
 })

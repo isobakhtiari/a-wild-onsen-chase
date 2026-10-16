@@ -133,6 +133,15 @@ body {
 }
 
 .story__published {
+  margin: 0 0 6px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.68rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #777;
+}
+
+.story__author {
   margin: 0 0 12px;
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
   font-size: 0.68rem;
@@ -153,6 +162,16 @@ body {
   line-height: 1.5;
   color: #444;
   max-width: 34em;
+}
+
+.methods {
+  padding: 40px 32px 120px 70px;
+}
+
+.methods__title {
+  margin: 0 0 16px;
+  font-size: 1.6rem;
+  line-height: 1.2;
 }
 
 .step {

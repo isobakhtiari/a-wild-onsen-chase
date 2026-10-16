@@ -2,7 +2,7 @@
 
 A scrollytelling map of a winter trip I took through northern Japan, built with QGIS, Illustrator, React, and Scrollama.
 
-**Published map: [a-wild-onsen-chase](https://isoparkes.github.io/a-wild-onsen-chase/)**
+**Published map: [a-wild-onsen-chase](https://isobakhtiari.github.io/a-wild-onsen-chase/)**
 
 ## What I aimed to accomplish
 
